@@ -1,0 +1,6 @@
+name: "registrar"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "Databases"
+- path: "Models"
+- path: "Views"
